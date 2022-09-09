@@ -20,7 +20,7 @@
  *
  *    *
  *
- *     * Return: Always 0.
+ *     * return: Always 0.
  *
  *      */
 
